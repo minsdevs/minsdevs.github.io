@@ -38,7 +38,7 @@ export const projects: Project[] = [
       'Redis',
       'tree-sitter',
     ],
-    repository: 'https://github.com/Min0504/code-intelligence',
+    repository: 'https://github.com/minsdevs/code-intelligence',
   },
   {
     slug: 'todayskin',
@@ -92,7 +92,7 @@ export const projects: Project[] = [
       'Testcontainers',
       'k6',
     ],
-    repository: 'https://github.com/Min0504/seatlock',
+    repository: 'https://github.com/minsdevs/seatlock',
   },
   {
     slug: 'hookrelay',
@@ -119,7 +119,7 @@ export const projects: Project[] = [
       'Redis',
       'Prometheus',
     ],
-    repository: 'https://github.com/Min0504/hookrelay',
+    repository: 'https://github.com/minsdevs/hookrelay',
   },
 ];
 
@@ -130,7 +130,7 @@ export const moreProjects = [
     description:
       'Append-only point ledger with pessimistic locking, idempotency, restartable Spring Batch jobs, and reconciliation.',
     technologies: ['Spring Boot', 'Spring Batch', 'PostgreSQL'],
-    repository: 'https://github.com/Min0504/pointledger',
+    repository: 'https://github.com/minsdevs/pointledger',
   },
   {
     title: 'Dev Cockpit',
@@ -138,7 +138,7 @@ export const moreProjects = [
     description:
       'A macOS menu-bar cockpit for grouping local services, ports, Docker, Git state, health, logs, and guarded process control.',
     technologies: ['Tauri', 'Rust', 'React'],
-    repository: 'https://github.com/Min0504/dev-cockpit',
+    repository: 'https://github.com/minsdevs/dev-cockpit',
   },
   {
     title: 'Axis',
@@ -146,7 +146,7 @@ export const moreProjects = [
     description:
       'A purchase-decision tool that combines verified product specifications, AI-assisted comparison, and price tracking.',
     technologies: ['Next.js', 'Supabase', 'Vercel'],
-    repository: 'https://github.com/Min0504/Axis',
+    repository: 'https://github.com/minsdevs/Axis',
     live: 'https://axis-app-beta.vercel.app',
   },
   {
@@ -155,7 +155,7 @@ export const moreProjects = [
     description:
       'A Korean directory for comparing automation tools, paired with an independently built Express and SQLite API.',
     technologies: ['React', 'Express', 'SQLite'],
-    repository: 'https://github.com/Min0504/AutoAiHub',
+    repository: 'https://github.com/minsdevs/AutoAiHub',
     live: 'https://autohub-ai.vercel.app',
   },
 ] as const;

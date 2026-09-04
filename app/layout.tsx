@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   description:
     'Computer science student building backend systems, AI-assisted developer tools, and products that move from idea to deployment.',
   alternates: { canonical: '/' },
-  authors: [{ name: 'Minseok Chae', url: 'https://github.com/Min0504' }],
+  authors: [{ name: 'Minseok Chae', url: 'https://github.com/minsdevs' }],
   openGraph: {
     type: 'website',
     locale: 'en_US',

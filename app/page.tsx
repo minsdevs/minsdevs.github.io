@@ -6,7 +6,7 @@ import { SectionHeading } from '@/components/sections/section-heading';
 import { engineeringProfile, leadership } from '@/data/experience';
 import { moreProjects, projects } from '@/data/projects';
 
-const github = 'https://github.com/Min0504';
+const github = 'https://github.com/minsdevs';
 const email = 'mailto:mins.devs@gmail.com';
 
 const aiMethod = [
@@ -291,7 +291,7 @@ export default function Home() {
                 <Mail size={18} aria-hidden="true" /> mins.devs@gmail.com
               </a>
               <a href={github} target="_blank" rel="noreferrer">
-                <ArrowUpRight size={18} aria-hidden="true" /> github.com/Min0504
+                <ArrowUpRight size={18} aria-hidden="true" /> github.com/minsdevs
               </a>
               <a href={`${email}?subject=Resume%20request`}>
                 <ArrowUpRight size={18} aria-hidden="true" /> Request résumé
